@@ -1,5 +1,5 @@
 # Install Desktop Environment
-sudo yum groupinstall "Server with GUI"
+sudo yum groupinstall -y "Server with GUI"
 
 # Set a password for the logged in user in the centos on GCP so that it can used for the remote connection
 sudo passwd crwbala
