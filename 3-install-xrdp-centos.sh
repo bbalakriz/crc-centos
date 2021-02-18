@@ -4,7 +4,6 @@
 
 [1]- https://linuxize.com/post/how-to-install-xrdp-on-centos-8/
 
-
 3. Then use a RDP client like VNC to connect to the server like this. 
 
 
