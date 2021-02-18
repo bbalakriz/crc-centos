@@ -5,8 +5,8 @@ sudo yum groupinstall "Server with GUI"
 sudo passwd crwbala
 
 # Install Xrdp
-sudo yum install epel-release
-sudo yum install xrdp 
+sudo yum install -y epel-release
+sudo yum install -y xrdp 
 sudo systemctl enable xrdp --now
 sudo systemctl status xrdp
 
