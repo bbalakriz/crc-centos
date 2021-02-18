@@ -1,4 +1,4 @@
-# Update OS and install NetworkManager
+# Update CentOS
 sudo yum update 
 
 # If NetworkManager is missing, do the following, else skip it
