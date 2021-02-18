@@ -1,6 +1,6 @@
-# Install Xfce Desktop Environment
+# Install Xfce Desktop Environment and firefox
 sudo yum install -y epel-release
-sudo yum install -y Xfce 
+sudo yum install -y Xfce firefox
 
 # Set a password for the logged in user in the centos on GCP so that it can used for the remote connection
 sudo passwd crwbala
