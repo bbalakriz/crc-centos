@@ -1,5 +1,7 @@
 # Update OS and install NetworkManager
 sudo yum update 
+
+# If NetworkManager is missing, do the following, else skip it
 sudo passed root
 su -c 'yum install NetworkManager'
 
