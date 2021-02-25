@@ -14,7 +14,7 @@ sudo systemctl status xrdp
 sudo firewall-cmd --add-port=3389/tcp --permanent
 sudo firewall-cmd --reload
 
-** Then use a RDP client like VNC to connect to the server using the *RDP* protocol **
+**Then use a RDP client like VNC to connect to the server using the *RDP* protocol**
 
 References:
 ===========
